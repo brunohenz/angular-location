@@ -1,27 +1,17 @@
-# AngularLocation
+# Tutorial de Geolocalização com Angular e Typescript
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
+## Este projeto tem como objetivo demonstrar a utilização do geolocation nativo do Angular.
 
-## Development server
+<br />
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+[Artigo Parte I](https://brunohenz.medium.com/obtendo-a-localiza%C3%A7%C3%A3o-do-usu%C3%A1rio-do-seu-site-com-angular-e-typescript-52ba5ff0a8e7) 
 
-## Code scaffolding
+(Obtendo a localização do usuário do seu site com Angular e Typescript.)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+<br /><br />
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+<p>Para contato com o autor, siga no twitter:<p>
 
-## Running unit tests
+[@cryptohenz](https://twitter.com/cryptohenz)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
